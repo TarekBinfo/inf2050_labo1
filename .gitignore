@@ -1,0 +1,5 @@
+# les fichiers .nomFichier seront ignorés
+.class
+
+# les fichiers ! .nomFichier seront suivis
+! .gitignore
